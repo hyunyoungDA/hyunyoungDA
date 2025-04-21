@@ -11,7 +11,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :mortar_board: 🎓Bachelor of Computer Engineering, Sungkyul University(SKU)
+  #### :mortar_board: Bachelor of Computer Engineering, Sungkyul University(SKU)
   <br/>
   <br/>
   
@@ -25,17 +25,14 @@
   ### Library
   <!--Scikit-learn-->
   <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  
   <!--pandas-->
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  
   <!--Selenium-->
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
 
   <br/>
   
   ### Framework
-
   <!--PyTorch-->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   <!--Tensorflow-->
