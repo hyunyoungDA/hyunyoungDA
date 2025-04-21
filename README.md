@@ -39,8 +39,8 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   <!--Tensorflow-->
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <!--Keras-->
-  <img src="https://img.shields.io/badge/keras-D00000?style=flat-  square&logo=keras&logoColor=white"/>
+  <!-- Keras -->
+<img src="https://img.shields.io/badge/keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
   <!--Apache spark-->
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
   <!--Apache kafka-->
