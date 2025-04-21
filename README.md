@@ -41,12 +41,12 @@
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <!--Keras-->
   <img src="https://img.shields.io/badge/keras-D00000?style=flat-  square&logo=keras&logoColor=white"/>
-  <!--spark-->
+  <!--Apache spark-->
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-  <!--kafka-->
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-  square&logo=apachekafka&logoColor=white"/>
-  <!--hadoop-->
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-  square&logo=apachehadoop&logoColor=white"/>
+  <!--Apache kafka-->
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+  <<!-- Apache Hadoop -->
+<img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white"/>
   <br/>
   
   ### ETC
