@@ -25,6 +25,8 @@
   ### Library
   <!--Scikit-learn-->
   <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <!--Numpy-->
+  <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <!--pandas-->
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <!--Selenium-->
@@ -40,11 +42,11 @@
   <!--Keras-->
   <img src="https://img.shields.io/badge/keras-D00000?style=flat-  square&logo=keras&logoColor=white"/>
   <!--spark-->
-  <img src="https://img.shields.io/badge/apachespark-#E25A1C?style=flat-  square&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
   <!--kafka-->
-  <img src="https://img.shields.io/badge/apachekafka-#231F20?style=flat-  square&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-  square&logo=apachekafka&logoColor=white"/>
   <!--hadoop-->
-  <img src="https://img.shields.io/badge/apachehadoop-#66CCFF?style=flat-  square&logo=apachehadoop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-  square&logo=apachehadoop&logoColor=white"/>
   <br/>
   
   ### ETC
