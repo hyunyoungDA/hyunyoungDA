@@ -56,14 +56,9 @@
   <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <br/>
   <br/>
-  
-  ## 🤔 Github Stats
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunyoungDA)](https://github.com/anuraghazra/github-readme-stats)
+
   
 </div>
-
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunyoungDA)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **hyunyoungDA/hyunyoungDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
