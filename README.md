@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
   <!--Apache kafka-->
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-  <<!-- Apache Hadoop -->
+  <!-- Apache Hadoop -->
 <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white"/>
   <br/>
   
