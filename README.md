@@ -55,7 +55,7 @@
   <br>
   <br>
 
-  <h3 align="center">📚 Studying 📚</h3>
+  ## 📚 Studying 📚
   <div align="center">
     <img src="https://img.shields.io/badge/Langchain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=LangGraph&logoColor=white" />&nbsp
