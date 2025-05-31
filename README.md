@@ -19,8 +19,6 @@
   <div align='center'>
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <!--JavaScript-->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <!--Scikit-learn-->
   <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
   <!--Numpy-->
@@ -28,17 +26,13 @@
   <!--pandas-->
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <!--Selenium-->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
+  <!--<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>-->
   </div>
   <br>
   
   <div align='center'>
   <!--PyTorch-->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-  <!--Tensorflow-->
-  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <!-- Keras -->
-  <img src="https://img.shields.io/badge/keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
   <!--Apache spark-->
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
   </div>
