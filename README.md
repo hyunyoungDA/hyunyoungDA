@@ -41,6 +41,9 @@
   <img src="https://img.shields.io/badge/keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
   <!--Apache spark-->
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+  </div>
+  <br>
+  <div align='center'>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white"/>
