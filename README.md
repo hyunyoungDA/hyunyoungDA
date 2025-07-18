@@ -67,6 +67,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=hyunyoungDA&show_icons=true&theme=default" />
   </a>
   <br>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohy041435)](https://solved.ac/ohy041435/)
+  <a href="https://solved.ac/ohy041435">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ohy041435" />
   </a>
 </div>
