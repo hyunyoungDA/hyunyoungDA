@@ -12,7 +12,7 @@
   
   ## 👀 About Me
   #### :mortar_board: Bachelor of Computer Engineering, Sungkyul University(SKU)
-  #### :💡: Passionate about AI, NLP, and LLM Applications
+  #### 💡: Passionate about AI, NLP, and LLM Applications
   <br/>
   <br/>
 
@@ -67,7 +67,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=hyunyoungDA&show_icons=true&theme=default" />
   </a>
   <br>
-  <a href="https://solved.ac/ohy041435@gmail.com">
-    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ohy041435@gmail.com" />
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohy041435)](https://solved.ac/ohy041435/)
   </a>
 </div>
