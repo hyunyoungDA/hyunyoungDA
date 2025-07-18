@@ -20,8 +20,8 @@
 
 | Period | Role / Activity | Description |
 |--------|------------------|-------------|
-| **Mar 2025 – Present** | AI Researcher at Sungkyul University | • Conducted research on a comment classification system using KcELECTRA to detect malicious and positive comments and prioritize positive ones<br>• Developed a neologism recognition model based on Named Entity Recognition (NER) to help mitigate social conflict and reduce information inequality |
-| **Sep 2024 – Jun 2025** | AI Tutor at Sungkyul University | • Provided mentoring and academic support to junior students<br>• Assisted in exam supervision and tutoring sessions |
+| **Mar 2025 – Present** | Undergraduate Researcher at Sungkyul University | • Conducted research on a comment classification system using KcELECTRA to detect malicious and positive comments and prioritize positive ones<br>• Developed a neologism recognition model based on Named Entity Recognition (NER) to help mitigate social conflict and reduce information inequality |
+| **Sep 2024 – Jun 2025** | AI Assistant at Sungkyul University | • Provided mentoring and academic support to junior students<br>• Assisted in exam supervision and tutoring sessions |
 | **Sep 2024 – Feb 2025** | Member of BDA 9th Cohort – Statistics & Modeling 1 | • Learned fundamental concepts of statistics and machine learning |
 | **Sep 2021 – Dec 2021** | Member of TellUS Club at Sungkyul University | • Delivered coding education using Scratch and Entry at Gunpo Elementary School |
 
