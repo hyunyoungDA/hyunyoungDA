@@ -16,20 +16,15 @@
   <br/>
   <br/>
 
-  ## Experiences/Activity
-  | 2025.03 - ing | AI research at Sungkyul University
-  - Conducted research on a comment classification system using KcELECTRA to detect malicious and positive comments and prioritize positive ones
-  -  Developed a neologism recognition model based on Named Entity Recognition (NER) to help mitigate social conflict and reduce information inequality
-  <br>
-  | 2024.09 - 2025.06 | AI Tutor at Sungkyul University
-  - Provided mentoring and academic support to junior students
-  - Assisted in exam supervision and tutoring sessions
-  <br>
-  | 2024.09 - 2025.02 | Member of BDA (Big Data Analysis) 9th Cohort – Statistics & Modeling 1 Track
-  - Learned fundamental concepts of statistics and machine learning
-  <br>
-  | 2021.09 - 2021.12 | Member of TellUS Club at Sungkyul University
-  -Delivered coding education using Scratch and Entry at Gunpo Elementary School
+  ## 🧑‍💻 Experiences / Activities
+
+| Period | Role / Activity | Description |
+|--------|------------------|-------------|
+| **Mar 2025 – Present** | AI Researcher at Sungkyul University | • Conducted research on a comment classification system using KcELECTRA to detect malicious and positive comments and prioritize positive ones<br>• Developed a neologism recognition model based on Named Entity Recognition (NER) to help mitigate social conflict and reduce information inequality |
+| **Sep 2024 – Jun 2025** | AI Tutor at Sungkyul University | • Provided mentoring and academic support to junior students<br>• Assisted in exam supervision and tutoring sessions |
+| **Sep 2024 – Feb 2025** | Member of BDA 9th Cohort – Statistics & Modeling 1 | • Learned fundamental concepts of statistics and machine learning |
+| **Sep 2021 – Dec 2021** | Member of TellUS Club at Sungkyul University | • Delivered coding education using Scratch and Entry at Gunpo Elementary School |
+
   
   
   
@@ -57,42 +52,6 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 
-</div>
-  <!--Python-->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <!--Scikit-learn-->
-  <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <!--Numpy-->
-  <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <!--pandas-->
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <!--Selenium-->
-  <!--<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>-->
-  </div>
-  <br>
-  
-  <div align='center'>
-  <!--PyTorch-->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-  <!--Apache spark-->
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-  </div>
-  <br>
-  <div align='center'>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white"/>
-  </div>
-  <br>
-  
-  <div align='center'>
-  <!--MySQL-->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
-  </div>
-  <br>
-  <br>
-
   ## 📚 Currently Studying
 
 <div align="center">
@@ -100,12 +59,6 @@
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=LangGraph&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
-
-  ## 📚 Studying 📚
-  <div align="center">
-    <img src="https://img.shields.io/badge/Langchain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=LangGraph&logoColor=white" />&nbsp
-  </div>
 
   ## 📊 GitHub Stats & Algorithm Solving
 
@@ -118,11 +71,3 @@
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ohy041435@gmail.com" />
   </a>
 </div>
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ohy041435@gmail.com)](https://solved.ac/ohy041435@gmail.com)
-  
-</div>
-
-[![hyunyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunyoungDA)](https://github.com/hyunyoungDA/github-readme-stats)
-
-
