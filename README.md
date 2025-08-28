@@ -25,7 +25,8 @@
 | **Sep 2024 – Feb 2025** | Member of BDA 9th Cohort – Statistics & Modeling 1 | • Learned fundamental concepts of statistics and machine learning |
 | **Sep 2021 – Dec 2021** | Member of TellUS Club at Sungkyul University | • Delivered coding education using Scratch and Entry at Gunpo Elementary School |
 
-  
+  ## 🏆 Competition
+  🥇 Winner of the GBSA NVIDIA AI Project Competition
   
   
   ## 🧱 Tech Stack
@@ -42,7 +43,6 @@
 
 ### 🔥 Deep Learning & LLM
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-F9A03C?style=for-the-badge&logo=huggingface&logoColor=white"/>
 
 ### 🚀 Backend & API
@@ -52,9 +52,6 @@
 
 ### 🗃️ Database & Big Data
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-
   ## 📚 Currently Studying
 
 <div align="center">
