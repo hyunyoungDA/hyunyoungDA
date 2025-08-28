@@ -52,7 +52,8 @@
 
 ### 🗃️ Database & Big Data
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-  ## 📚 Currently Studying
+  
+### 📚 Currently Studying
 
 <div align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white" />
